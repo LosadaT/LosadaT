@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hello!!👋%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20profile%20page!!!%20:D%20&descAlignY=60&descSize=18">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hello!!%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20profile%20page!!!%20&descAlignY=60&descSize=18">
 
 <h2 align="center"> iOS Developer | Computer Science Student at Mackenzie Presbyterian University
 
@@ -24,3 +24,13 @@
 <div align=center>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=LosadaT&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </div>
+
+<h2 align="center">  </h2>
+<div align="center">
+   <a href="https://www.linkedin.com/in/francisco-losada-totaro/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="mailto:franciscoltotaro@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a>
+</div>
+  
+ 
+
+
