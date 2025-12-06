@@ -25,7 +25,7 @@
 
 
 <div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=LosadaT&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=LosadaT&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Francisco's Most Used Languages" />
 </div>
 
 <h2 align="center">  </h2>
