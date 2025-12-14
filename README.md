@@ -25,7 +25,7 @@
 
 
 <div align=center>
-  <img width=325 src="https://github-readme-stats-five-khaki-96.vercel.app/api/top-langs?username=LosadaT&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&exclude_repo=github-readme-stats&locale=en" alt="Francisco's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats-five-khaki-96.vercel.app/api/top-langs?username=LosadaT&exclude_repo=github-readme-stats&theme=transparent&layout=donut&langs_count=20&border_radius=10&show_icons=true&locale=en" alt="Francisco's Most Used Languages" />
 </div>
 
 <h2 align="center">  </h2>
