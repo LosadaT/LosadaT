@@ -23,9 +23,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>
 </p>
 
-
 <div align=center>
-  <img width=325 src="https://github-readme-stats-five-khaki-96.vercel.app/api/top-langs?username=LosadaT&exclude_repo=github-readme-stats&theme=transparent&layout=donut&langs_count=20&border_radius=10&show_icons=true&locale=en" alt="Francisco's Most Used Languages" />
+  <img 
+    width="325"
+    alt="Francisco's Github Stats" 
+    src="https://github-readme-stats-five-khaki-96.vercel.app/api?username=LosadaT&hide_rank=true&hide=stars,issues&show_icons=true&border_radius=10&theme=transparent&include_all_commits=true" 
+    style="display:inline-block; vertical-align: middle;"
+    />
+  
+  <img     
+    width="325"
+    alt="Francisco's Most Used Languages"
+    src="https://github-readme-stats-five-khaki-96.vercel.app/api/top-langs?username=LosadaT&exclude_repo=github-readme-stats&theme=transparent&layout=compact&langs_count=10&border_radius=10&show_icons=true&locale=en" 
+    style="display:inline-block; vertical-align: middle;"
+    />
+
 </div>
 
 <h2 align="center">  </h2>
