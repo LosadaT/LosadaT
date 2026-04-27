@@ -32,11 +32,11 @@
     src="https://github-readme-stats-five-khaki-96.vercel.app/api?username=LosadaT&hide_rank=true&hide=stars,issues&show_icons=true&border_radius=10&theme=transparent&include_all_commits=true" 
     style="display:inline-block; vertical-align: middle;"
     />
-  <!-- &hide=makefile -->
+  
   <img     
     width="325"
     alt="Francisco's Most Used Languages"
-    src="https://github-readme-stats-five-khaki-96.vercel.app/api/top-langs?username=LosadaT&exclude_repo=github-readme-stats&theme=transparent&layout=compact&langs_count=10&border_radius=10&show_icons=true&locale=en" 
+    src="https://github-readme-stats-five-khaki-96.vercel.app/api/top-langs?username=LosadaT&exclude_repo=github-readme-stats&theme=transparent&layout=compact&langs_count=12&border_radius=10&show_icons=true&locale=en&hide=makefile" 
     style="display:inline-block; vertical-align: middle;"
     />
 
@@ -47,7 +47,3 @@
    <a href="https://www.linkedin.com/in/francisco-losada-totaro/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="mailto:franciscoltotaro@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a>
 </div>
-  
- 
-
-
