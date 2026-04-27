@@ -32,7 +32,7 @@
     src="https://github-readme-stats-five-khaki-96.vercel.app/api?username=LosadaT&hide_rank=true&hide=stars,issues&show_icons=true&border_radius=10&theme=transparent&include_all_commits=true" 
     style="display:inline-block; vertical-align: middle;"
     />
-  
+  <!-- &hide=makefile -->
   <img     
     width="325"
     alt="Francisco's Most Used Languages"
