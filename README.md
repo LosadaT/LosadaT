@@ -36,9 +36,9 @@
   <img     
     width="325"
     alt="Francisco's Most Used Languages"
-    src="https://github-readme-stats-five-khaki-96.vercel.app/api/top-langs?username=LosadaT&exclude_repo=github-readme-stats&theme=transparent&layout=compact&langs_count=21&border_radius=10&show_icons=true&locale=en&hide=makefile" 
+    src="https://github-readme-stats-five-khaki-96.vercel.app/api/top-langs?username=LosadaT&exclude_repo=github-readme-stats&theme=transparent&layout=compact&langs_count=20&border_radius=10&show_icons=true&locale=en&hide=makefile%2Cjupyter%20notebook" 
     style="display:inline-block; vertical-align: middle;"
-    />
+/>
 
 </div>
 
