@@ -2,6 +2,11 @@
 
 <h2 align="center">iOS Developer | Computer Science Student at Mackenzie Presbyterian University</h2>
 
+<div align="center">
+   <a href="https://www.linkedin.com/in/francisco-losada-totaro/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="mailto:franciscoltotaro@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a>
+</div>
+
 <h2 align="center">Apps on the App Store</h2>
 
 <div align="center">
@@ -103,11 +108,5 @@
     src="https://github-readme-stats-five-khaki-96.vercel.app/api/top-langs?username=LosadaT&exclude_repo=github-readme-stats&theme=transparent&layout=compact&langs_count=22&border_radius=10&show_icons=true&locale=en&hide=makefile%2Cjupyter%20notebook%2Cshell" 
     style="display:inline-block; vertical-align: middle;"
 />
-
 </div>
-
-<h2 align="center">  </h2>
-<div align="center">
-   <a href="https://www.linkedin.com/in/francisco-losada-totaro/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="mailto:franciscoltotaro@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,100:FA7343&height=100&section=footer"/>
