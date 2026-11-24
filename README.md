@@ -7,61 +7,70 @@
   <a href="mailto:franciscoltotaro@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a>
 </div>
 
+
 <h2 align="center">Apps on the App Store</h2>
 
 <div align="center">
   <table width="100%">
-    <tr>
+    <tr bgcolor="transparent">
       <td align="center" valign="top" colspan="2" width="33%">
         <img src="assets/Reef.jpg" width="80" alt="Reef app icon"/>
-        <h4>Reef: Reference<br/>Library</h4>
+        <h4>Reef<br/><sub>macOS/iOS</sub></h4>
+        <br/>
         <a href="https://apps.apple.com/br/app/reef-reference-library/id6800039120?l=en-GB&mt=12"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
         <a href=""><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </td>
       <td align="center" valign="top" colspan="2" width="33%">
         <img src="assets/ReUne.png" width="80" alt="ReUne! app icon"/>
-        <h4>ReUne!<br/><br/></h4>
+        <h4>ReUne!<br/><sub>iOS</sub></h4>
+        <br/>
         <a href="https://apps.apple.com/br/app/reune-junte-seus-amigos/id6771074080?l=en-GB"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
         <a href="https://github.com/hyauss/ReUne"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </td>
       <td align="center" valign="top" colspan="2" width="33%">
-        <img src="assets/CausosOcultos.png" width="80" alt="Causos Ocultos app icon"/>
-        <h4>Causos Ocultos:<br/>Quixeramobim</h4>
-        <a href="https://apps.apple.com/br/app/causosocultosquixeramobim/id6759735287"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
-        <a href="https://github.com/C11G3/CausosOcultosQuixeramobim"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+        <img src="assets/Soundstain.jpg" width="80" alt="Soundstain app icon"/>
+        <h4>Soundstain<br/><sub>iOS</sub></h4>
+        <br/>
+        <a href="https://apps.apple.com/br/app/soundstain/id6761776133?l=en-GB"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
+        <a href="https://github.com/C12G3/Soundstain"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </td>
     </tr>
-    <tr>
+    <tr bgcolor="transparent">
       <td align="center" valign="top" colspan="2" width="33%">
         <img src="assets/MyBoard.png" width="80" alt="MyBoard app icon"/>
-        <h4>MyBoard<br/><br/></h4>
+        <h4>MyBoard<br/><sub>visionOS</sub></h4>
+        <br/>
         <a href="https://apps.apple.com/us/app/myboard-your-moodboard-app/id6756277657"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
         <a href="https://github.com/LosadaT/MyBoard"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </td>
       <td align="center" valign="top" colspan="2" width="33%">
         <img src="assets/NotADiary.jpg" width="80" alt="Not a Diary app icon"/>
-        <h4>NotADiary<br/><br/></h4>
+        <h4>NotADiary<br/><sub>iOS</sub></h4>
+        <br/>
         <a href="https://apps.apple.com/br/app/notadiary/id6753695305?l=en-GB"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
         <a href="https://github.com/PedroTessaro/NotADiary"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </td>
       <td align="center" valign="top" colspan="2" width="33%">
-        <img src="assets/Soundstain.jpg" width="80" alt="Soundstain app icon"/>
-        <h4>Soundstain<br/><br/></h4>
-        <a href="https://apps.apple.com/br/app/soundstain/id6761776133?l=en-GB"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
-        <a href="https://github.com/C12G3/Soundstain"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+        <img src="assets/CausosOcultos.png" width="80" alt="Causos Ocultos app icon"/>
+        <h4>Causos Ocultos<br/><sub>iOS/watchOS</sub></h4>
+        <br/>
+        <a href="https://apps.apple.com/br/app/causosocultosquixeramobim/id6759735287"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
+        <a href="https://github.com/C11G3/CausosOcultosQuixeramobim"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </td>
     </tr>
-    <tr>
+    <tr bgcolor="transparent">
       <td colspan="1" width="16.5%"></td>
       <td align="center" valign="top" colspan="2" width="33%">
         <img src="assets/EsoBuilds.jpg" width="80" alt="EsoBuilds app icon"/>
-        <h4>EsoBuilds<br/><br/></h4>
+        <h4>EsoBuilds<br/><sub>iOS</sub></h4>
+        <br/>
         <a href="https://apps.apple.com/br/app/esobuilds/id6749019440?l=en-GB"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
         <a href="https://github.com/LosadaT/EsoBuilds"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </td>
       <td align="center" valign="top" colspan="2" width="33%">
         <img src="assets/NorthWind.png" width="80" alt="NorthWind app icon"/>
-        <h4>NorthWind<br/><br/></h4>
+        <h4>NorthWind<br/><sub>iOS</sub></h4>
+        <br/>
         <a href="https://apps.apple.com/br/app/cyberdo/id6749083212"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
         <a href="https://github.com/LosadaT/NorthWind"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </td>
@@ -69,7 +78,6 @@
     </tr>
   </table>
 </div>
-
 
 <h2 align="center"> Some Tools I Have Used and Learned</h2>
 
